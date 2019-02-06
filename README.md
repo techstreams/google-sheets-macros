@@ -2,6 +2,8 @@
 
 This repository contains a collection of custom macros for Google Sheets.
 
+*(For more information on Google Sheets macros, see [Automate tasks in Google Sheets](https://support.google.com/docs/answer/7665004))*
+
 ---
 
 ## Installation
@@ -21,9 +23,8 @@ This repository contains a collection of custom macros for Google Sheets.
 
 **To run a Google Sheets macro:**
 
-1. Select the Google Sheets **Tools** > **Macros** > *<name of macro>* menu
+1. Select the Google Sheets **Tools** > **Macros** > *name of macro* menu
   
-*(For more information on Google Sheets macros, see [Automate tasks in Google Sheets](https://support.google.com/docs/answer/7665004))*
 
 ---
 
