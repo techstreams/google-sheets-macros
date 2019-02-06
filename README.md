@@ -23,7 +23,7 @@ This repository contains a collection of custom macros for Google Sheets.
 
 **To run a Google Sheets macro:**
 
-1. Select the Google Sheets **Tools** > **Macros** > *name of macro* menu
+1. Select the Google Sheets **Tools** > **Macros** > *'name of macro'* menu
   
 
 ---
