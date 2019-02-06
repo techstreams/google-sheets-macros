@@ -20,4 +20,8 @@
 * SOFTWARE.
 */
 
+/**
+ * Google Sheets macro for automating data analysis utilizing Benford's Law
+ */
+
 /** @OnlyCurrentDoc */
