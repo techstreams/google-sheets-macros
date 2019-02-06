@@ -2,7 +2,7 @@
 
 This repository contains a collection of custom macros for Google Sheets.
 
-*(For more information on Google Sheets macros, see [Automate tasks in Google Sheets](https://support.google.com/docs/answer/7665004))*
+*(For more information on Google Sheets macros, see [Automate tasks in Google Sheets](https://support.google.com/docs/answer/7665004)).*
 
 ---
 
