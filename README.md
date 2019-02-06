@@ -38,7 +38,7 @@ This repository contains a collection of custom macros for Google Sheets.
 
 ## License
 
-**Google Sheets Macros License**
+**google-sheets-macros License**
 
 © Laura Taylor ([github.com/techstreams](https://github.com/techstreams)). Licensed under an MIT license.
 
