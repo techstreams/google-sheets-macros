@@ -28,7 +28,7 @@ This repository contains a collection of custom macros for Google Sheets.
 
 ---
 
-## Available Macros
+## Macros
 
 * **Benford's Law**  
   * [Macro Code](/BenfordsLaw.gs)
