@@ -24,6 +24,7 @@
 
 /**
  * Google Sheets macro for automating data analysis utilizing Benford's Law
+ * See Blog Post - https://medium.com/@techstreams/using-apps-script-a-google-sheets-macro-and-benfords-law-to-detect-potential-fraud-9fbd91b325ab
  */
 function BenfordsLaw() {
   var ss = SpreadsheetApp.getActiveSpreadsheet(),
