@@ -32,7 +32,7 @@ This repository contains custom macros for Google Sheets.
 
 * **Benford's Law**  
   * [Macro Code](/BenfordsLaw.gs)
-  * [Blog Post]()
+  * Blog Post
   
 ---
 
