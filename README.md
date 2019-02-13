@@ -32,7 +32,7 @@ This repository contains custom macros for Google Sheets.
 
 * **Benford's Law**  
   * [Macro Code](/BenfordsLaw.gs)
-  * Blog Post
+  * [Blog Post](https://medium.com/@techstreams/using-apps-script-a-google-sheets-macro-and-benfords-law-to-detect-potential-fraud-9fbd91b325ab)
   
 ---
 
