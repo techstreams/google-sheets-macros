@@ -23,7 +23,7 @@
 /** @OnlyCurrentDoc */
 
 /**
- * Add calendar dropdown and valid date validation to selected cells.  
+ * Add calendar dropdown and date validation to selected cells.  
  * Double click on cell to get calendar,.
  */
  function CreateCalendarDropdown() {
