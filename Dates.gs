@@ -23,10 +23,9 @@
 /** @OnlyCurrentDoc */
 
 /**
- * Add calendar dropdown and date validation to selected cells.  
- * Double click on cell to get calendar,.
+ * Add calendar dropdown and date validation to active range.
  */
- function CreateCalendarDropdown() {
+ function AddCalendarDropdown() {
   SpreadsheetApp.getActive().getActiveRange().setDataValidation(SpreadsheetApp.newDataValidation()
                 .setAllowInvalid(false)
                 .setHelpText('Enter a valid date')
