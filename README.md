@@ -34,6 +34,9 @@ This repository contains custom macros for Google Sheets.
   * [Macro Code](/BenfordsLaw.gs)
   * [Blog Post](https://medium.com/@techstreams/using-apps-script-a-google-sheets-macro-and-benfords-law-to-detect-potential-fraud-9fbd91b325ab)
   
+* **[Dates](/Dates.gs)**
+  * **AddCalendarDropdown** - Add calendar dropdown and date validation to active range.
+  
 ---
 
 ## License
