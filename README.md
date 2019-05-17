@@ -37,6 +37,10 @@ This repository contains custom macros for Google Sheets.
 * **Dates**
   * [AddCalendarDropdown()](/Dates.gs) - Add calendar dropdown and date validation to active range.
   
+* **Freeze**
+  * [FreezeActiveSheet()](/Freeze.gs) - Freeze specified rows and columns on active sheet
+  * [FreezeAllSheets()](/Freeze.gs) - Freeze specified rows and columns on all sheets
+  
 ---
 
 ## License
