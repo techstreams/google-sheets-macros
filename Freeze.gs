@@ -24,6 +24,7 @@
 
 /**
  * Google Sheets macro for freezing rows and columns on active sheet
+ * Enter '0' to remove frozen rows and/or columns
  */
 function FreezeActiveSheet() {
   var ss = SpreadsheetApp.getActive(),
@@ -61,6 +62,7 @@ function FreezeActiveSheet() {
 
 /**
  * Google Sheets macro for freezing rows and columns on all sheets
+ * Enter '0' to remove frozen rows and/or columns
  */
 function FreezeAllSheets() {
   var ss = SpreadsheetApp.getActive(),
