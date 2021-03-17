@@ -1,5 +1,12 @@
 # Google Sheets Macros
 
+*If you enjoy my [Google Workspace Apps Script](https://developers.google.com/apps-script) work, please consider buying me a cup of coffee!* 
+
+
+[![](https://techstreams.github.io/images/bmac.svg)](https://www.buymeacoffee.com/techstreams)
+
+---
+
 This repository contains custom macros for Google Sheets.
 
 *(For more information on Google Sheets macros, see [Automate tasks in Google Sheets](https://support.google.com/docs/answer/7665004)).*
