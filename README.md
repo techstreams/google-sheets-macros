@@ -49,7 +49,7 @@ This repository contains custom macros for Google Sheets.
   * [FreezeAllSheets()](/Freeze.gs) - Freeze specified rows and columns on all sheets
 
 * **TSCreateUrlCheatsheet**
-  * [TSCreateUrlCheatsheet()](/TSCreateUrlCheatsheet.gs) - Create Google Workspace New URL Cheatsheet
+  * [TSCreateUrlCheatsheet()](/TSCreateUrlCheatsheet.gs) - Create Google Workspace New URLs Cheatsheet
   
 ---
 
