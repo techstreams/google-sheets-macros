@@ -50,6 +50,7 @@ This repository contains custom macros for Google Sheets.
 
 * **TSCreateUrlCheatsheet**
   * [TSCreateUrlCheatsheet()](/TSCreateUrlCheatsheet.gs) - Create Google Workspace New URLs Cheatsheet
+  * *Aware of any other Google Workspace new resource URLs?  Please let me know through the [issues](https://github.com/techstreams/google-sheets-macros/issues).*
   
 ---
 
