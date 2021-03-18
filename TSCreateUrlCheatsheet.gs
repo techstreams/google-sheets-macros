@@ -23,7 +23,7 @@
 /** @OnlyCurrentDoc */
 
 /**
- * Google Sheets macro for creating a Google Workspace new URL cheatsheet
+ * Google Sheets macro for creating a Google Workspace new URLs cheatsheet
  */
 function TSCreateUrlCheatsheet() {
   const ss = SpreadsheetApp.getActive(),
@@ -45,5 +45,7 @@ function TSCreateUrlCheatsheet() {
   sheet.getRange('A1:H5').getBandings()[0].setHeaderRowColor('#8bc34a').setFirstRowColor('#ffffff')
                          .setSecondRowColor('#eef7e3').setFooterRowColor(null);
   sheet.autoResizeColumns(1, 8);
-  sheet.getRange('A6').activate();
+  sheet.getRange('A7').setValue('For more macros by @techstreams see:').setFontSize(10).activate();
+  sheet.getRange('C7').setValue('https://github.com/techstreams/google-sheets-macros')
+       .setFontSize(10).activate();
 };
