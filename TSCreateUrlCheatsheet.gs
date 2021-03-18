@@ -44,6 +44,8 @@ function TSCreateUrlCheatsheet() {
   sheet.getRange('A1:H5').applyRowBanding(SpreadsheetApp.BandingTheme.LIGHT_GREY);
   sheet.getRange('A1:H5').getBandings()[0].setHeaderRowColor('#8bc34a').setFirstRowColor('#ffffff')
                          .setSecondRowColor('#eef7e3').setFooterRowColor(null);
+  sheet.getRange('A5:H5')
+       .setBorder(null, null, true, null, null, null, '#000000', SpreadsheetApp.BorderStyle.SOLID);
   sheet.autoResizeColumns(1, 8);
   sheet.getRange('A7').setValue('For more macros by @techstreams see:').setFontSize(10).activate();
   sheet.getRange('C7').setValue('https://github.com/techstreams/google-sheets-macros')
