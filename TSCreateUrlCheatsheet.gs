@@ -27,7 +27,7 @@
  */
 function TSCreateUrlCheatsheet() {
   const ss = SpreadsheetApp.getActive(),
-        sheet = ss.getActiveSheet()
+        sheet = ss.getActiveSheet(),
         titles = [['DOCS','SHEETS','SLIDES','FORMS','KEEP','CALENDAR','SITES','SCRIPT']],
         data = [['doc.new','sheet.new','slide.new','form.new','keep.new','cal.new','site.new','script.new'],
                 ['docs.new','sheets.new','slides.new','forms.new','note.new','meeting.new','sites.new',''],
