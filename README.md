@@ -55,6 +55,12 @@ This repository contains custom macros for Google Sheets.
   
 ---
 
+## Change Log
+
+* 2021-03-20 - Add new Jamboard shortcut *(jam.new)* to [TSCreateUrlCheatsheet()](/TSCreateUrlCheatsheet.gs).
+
+---
+
 ## License
 
 **google-sheets-macros License**
